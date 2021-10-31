@@ -47,5 +47,5 @@ A function of Multiplicity in Social Physics is to identify prime factors of int
 5) Ingenuity: The speculation that something is risked in hope of gain.
 --->
 
-The goal is to create a decentralized organization built on a scalable blockcahin with smart contracts to autonomously and transparently keep record of participation and to proof the functions of each form of credit.
+The goal is to create a decentralized organization built on a scalable blockchain with smart contracts to autonomously securely, and transparently keep record of participation and to proof the functions of each form of credit insuring the law of multiplicity is used appropriately across the platform.
 
